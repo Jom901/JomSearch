@@ -20,7 +20,6 @@
 #include <vector>
 
 
-typedef unsigned int uint;
 
 using namespace std;
 
