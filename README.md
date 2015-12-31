@@ -1,6 +1,6 @@
 ## JomSearch
 
-This project is a re-do of my 2012 Data Structures final project. The program
+This project is a re-do of my 2012 Data Structures final project that I decided to do overnight. The program
 consists of a client file, a class header and a class descriptor file. Essentially,
 this is supposed to simulate a program that reads an old collection of IMDB files and
 collects the names of the top 3 movies that contain whatever word you input. 
